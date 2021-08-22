@@ -5,6 +5,10 @@ weight = float(input("enter your weight in kg: "))
 
 #Write your code below this line 👇
 
+bmi = weight / height
+
+if bmi < 18.5:
+  print("your")
 
 
 
